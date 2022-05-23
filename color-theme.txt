@@ -1,0 +1,40 @@
+Color Pattern
+--------------
+Background: White (#fff)
+Elements: Yellow (#ffb600) & Blue (#02548c)
+Strips: Medium Black (#23282d)
+Text: Black (#111)
+
+
+Sections
+---------
+1) Navbar (Done)
+2) Banner (Done)
+3) We are specialist in
+4) Track Record (Done)
+5) Footer Banner (Done)
+6) Brands We Repair (Not Doing)
+7) Links (Done)
+8) Footer (Done)
+9) Fixed Button (Done)
+10) Page Loader (Done)
+11) Set All Section
+12) Make SEO Friendly
+13) Upload to Cpanel
+14) Submit on Console
+15) Connect to Cloud
+
+
+
+Services
+--------
+1) Washing Machine
+2) Fridge
+3) AC
+4) Dishwasher
+5) Dryer
+6) Cooking hobe
+7) Electric cooker
+8) Gas Cooker
+
+
